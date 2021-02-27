@@ -30,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/whfb-configuration-explanation/</loc>
+    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/why-are-my-users-not-prompted-for-mfa-as-expected/</loc>
     
     <lastmod>2021-02-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/why-are-my-users-not-prompted-for-mfa-as-expected/</loc>
+    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/whfb-configuration-explanation/</loc>
     
     <lastmod>2021-02-27</lastmod>
     
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/output-directory-roll-members/</loc>
+    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/password-sprey-attack/</loc>
     
     <lastmod>2021-02-27</lastmod>
     
   </url>
   
   <url>
-    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/password-sprey-attack/</loc>
+    <loc>https://georgioush.github.io/jpazureid-test/azure-active-directory/output-directory-roll-members/</loc>
     
     <lastmod>2021-02-27</lastmod>
     
@@ -1075,104 +1075,6 @@
   </url>
   
   <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/AAD-Connect/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Soft-matching/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/UPN/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/SMTP/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/AD-Sync/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Azure-AD-Connect/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/%E6%83%85%E5%A0%B1%E6%8E%A1%E5%8F%96/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Azure-Active-Directory/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Directory-Synchronization-Accounts/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/ADSync/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/DirSync/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/SSO/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Hard-match/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/Security/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1334,7 +1236,21 @@
   </url>
   
   <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/%E6%83%85%E5%A0%B1%E6%8E%A1%E5%8F%96/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/HAADJ/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/UPN/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1418,6 +1334,13 @@
   </url>
   
   <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Azure-AD-Connect/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/TPM/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1474,6 +1397,83 @@
   </url>
   
   <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/AAD-Connect/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Soft-matching/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/SMTP/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/AD-Sync/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Azure-Active-Directory/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Directory-Synchronization-Accounts/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/ADSync/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/DirSync/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/SSO/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Hard-match/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/AADSTS50107/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1510,20 +1510,6 @@
   
   <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/%E8%A8%BC%E6%98%8E%E6%9B%B8%E8%AA%8D%E8%A8%BC/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Password-Writeback/</loc>
-    <lastmod>2021-02-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://georgioush.github.io/jpazureid-test/tags/Self-Service-Password-Reset/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1580,6 +1566,20 @@
   
   <url>
     <loc>https://georgioush.github.io/jpazureid-test/tags/Azure-AD-Application-Proxy/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Password-Writeback/</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://georgioush.github.io/jpazureid-test/tags/Self-Service-Password-Reset/</loc>
     <lastmod>2021-02-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
